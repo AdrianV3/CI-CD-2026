@@ -28,4 +28,4 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           push: true
-          tags: avinagre005/repo-nuevo-as-2026
+          tags: adrianv3/repo-nuevo-as-2026
