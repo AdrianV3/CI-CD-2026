@@ -1,1 +1,1 @@
-printtttt("hola mundoks");
+print("hola mundoks");
